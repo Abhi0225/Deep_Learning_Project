@@ -1,1 +1,1 @@
-This project introduces an automated system designed to identify motorcyclists who are not wearing helmets and to extract motorcycle number plates from CCTV video recordings. 
+This project introduces an automated system designed to identify motorcyclists who are not wearing helmets and to extract motorcycle number plates from CCTV video recordings. The system utilizes the YOLO V5 algorithm for classifying and detecting objects, while EasyOCR is employed to extract the numerical content from the number plates.
